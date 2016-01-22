@@ -1,4 +1,4 @@
-# BulletDave's Math API
+# BulletDave's Java Math API
 
 What is it?
 
